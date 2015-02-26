@@ -222,7 +222,7 @@ i { font-style: italic; }
     width:100%;
     float:left;
     padding:0 0 0 0;
-	color:#000 !important;
+    color:#000 !important;
 	font-size:13px;
 	margin:0 0 0 0;
 }
@@ -230,7 +230,7 @@ i { font-style: italic; }
 {
     color:#000;
     font-size:13px;
-    padding:0 0 0 10px;
+    padding:0 0 0 0px;
 }
 .right-button
 {
